@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://mthibodeau.org/al-folio/sitemap.xml
+Sitemap: http://mthibodeau.org/sitemap.xml
